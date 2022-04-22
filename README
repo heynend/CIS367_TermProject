@@ -1,10 +1,12 @@
-1) My term project is an active background wallpapaer run through Lively. The program was 
+1) project is an active background wallpapaer run through Lively. The program was 
 created using HTML, CSS, and JS. Once finding the correctly active background engine and
 learning to implement my own program, my goal was to learn as much as I can about CSS. 
 
 2) The large majority of the graphics were created using CSS. A JS library, 
-'vanilla-tilt.js' (https://micku7zu.github.io/vanilla-tilt.js/), was added and editted a 
-bit for effect.
+'vanilla-tilt.js', was added and editted a bit for effect (this will make more sense in the
+code comments of the HTML file). A link to the download is included, but is also in the main 
+file folder.
+  - https://micku7zu.github.io/vanilla-tilt.js/
 
 3) The project can be found on my webpage, but if you wish to use the program with Lively
 a link for the download is included:
