@@ -1,5 +1,5 @@
 1) Project is an active background wallpapaer run through Lively. The program was created using HTML, CSS, and 
-   JS. Once finding the correctly active background engine and learning to implement my own programs, the goal was 
+   JS. Once finding a suitable active background engine and learning to implement my own programs, the goal was 
    to learn as much as I can about CSS that I can apply to a background.
 
 2) The large majority of the graphics were created using CSS. A JS library, 'vanilla-tilt.js', was added and 
@@ -10,7 +10,7 @@
   - https://micku7zu.github.io/vanilla-tilt.js/
 
 3) The project can be found on my webpage, but if you wish to run Lively on your own device a link for the download 
-   is included. Once downloaded, save the main () folder and drag the 'glowingCircleBackground" HTML file into
+   is included. Once downloaded, save the main folder on this page and drag the 'glowingCircleBackground" HTML file into
    Lively.
    
   - https://www.microsoft.com/en-us/p/lively-wallpaper/9ntm2qc6qws7?activetab=pivot:overviewtab
